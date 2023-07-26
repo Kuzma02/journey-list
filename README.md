@@ -1,3 +1,5 @@
+# Journey List - App made with React.js. You can use it before every journey so you don't forget things.
+![journey list](https://github.com/Kuzma02/journey-list/assets/138793624/dc300bf5-5cb5-416d-ae5a-e29293ad3224)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
